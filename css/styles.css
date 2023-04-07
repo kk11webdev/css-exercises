@@ -7,7 +7,13 @@
     font-weight: bold;
 }
 
+.odd {
+    background-color: rgb(255, 138, 138);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
 #big-blue {
     color: blue;
     font-size: 36px;
+    font-family: 'Verdana';
 }
