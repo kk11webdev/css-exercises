@@ -31,6 +31,8 @@
     font-family: 'Verdana';
 }
 
+/* Styles for 03-grouping-selectors from below here */
+
 .click1,
 .click2 {
     font-size: 28px;
