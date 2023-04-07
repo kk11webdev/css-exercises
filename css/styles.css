@@ -7,6 +7,8 @@
     font-weight: bold;
 }
 
+/* Styles for 02-class-id-selectors from below here */
+
 .odd {
     background-color: rgb(252, 157, 157);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
@@ -28,3 +30,4 @@
     font-weight: bold;
     font-family: 'Verdana';
 }
+
