@@ -9,11 +9,15 @@
 <body>
     <h1>04-chaining-selectors</h1>
 
+    <!-- First row of the two images -->
     <div>
         <img class="avatar proportioned" src="../img/katho.jpg" alt="Katho Mutodo">
         <img class="avatar distorted" src="../img/andrea.jpg" alt="Andrea Piacquadio">
     </div>
 
+    <!-- Second row of the two images
+    The 'original' class doesn't exist in styles.css - it's just to show that the chaining selector works for the '.avatar.proportioned' and '.avatar.distorted'.
+        (i.e., both 'original proportioned' and 'original distorted' contain the words 'proportioned' and 'distorted' which are in both 'avatar proportioned' and 'avatar distorted' but the chaining selector only works for the elements that have both applicable classes.) -->
     <div>
         <img class="original proportioned" src="../img/katho.jpg" alt="Katho Mutodo">
         <img class="original distorted" src="../img/andrea.jpg" alt="Andrea Piacquadio">
