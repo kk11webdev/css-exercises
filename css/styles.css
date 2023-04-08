@@ -63,10 +63,14 @@
     height: 400px;
 }
 
+/* Styles for 05-descendant-combinator from below here */
+
+/* Separate rule for the 'text' class since the font type is all the same for both 'styled' and 'unstyled' texts */
 .text {
     font-family: 'Verdana', sans-serif;
 }
 
+/* Descendant combinator for 'container' (parent) and 'text' (child) classes */
 .container .text {
     background-color: yellow;
     color: red;
