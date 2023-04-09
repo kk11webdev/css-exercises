@@ -111,7 +111,7 @@ div.text2 {
     font-family: Helvetica, sans-serif;
 }
 
-div.text2.child {
+div.text2 .child {
     font-weight: 800;
     font-size: 14px;
 }
