@@ -78,7 +78,7 @@
     text-align: center;
 }
 
-
+/* Styles for 06-cascade-fix from below here */
 
 .para {
     font-size: 22px;
@@ -103,7 +103,6 @@
     color: rgb(0, 0, 0);
     font-size: 20px;
 }
-
 
 div.text2 {
     color: rgb(0, 0, 0);;
