@@ -104,14 +104,14 @@
     font-size: 20px;
 }
 
-div.text2 {
+.text2 {
     color: rgb(0, 0, 0);;
     font-size: 22px;
     font-weight: 100;
     font-family: Helvetica, sans-serif;
 }
 
-div.text2 .child {
+.text2 .child {
     font-weight: 800;
     font-size: 14px;
 }
